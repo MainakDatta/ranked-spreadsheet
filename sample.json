@@ -1,0 +1,155 @@
+ {
+         "timestamp": 1482878980778,
+         "champion": 39,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2384357936,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482875991760,
+         "champion": 99,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2384361898,
+         "role": "DUO_CARRY",
+         "platformId": "NA1",
+         "lane": "MID"
+      },
+      {
+         "timestamp": 1482607135752,
+         "champion": 143,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2381610951,
+         "role": "DUO_SUPPORT",
+         "platformId": "NA1",
+         "lane": "BOTTOM"
+      },
+      {
+         "timestamp": 1482548946796,
+         "champion": 89,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2381172131,
+         "role": "DUO",
+         "platformId": "NA1",
+         "lane": "BOTTOM"
+      },
+      {
+         "timestamp": 1482528408120,
+         "champion": 57,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2380932647,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482305242600,
+         "champion": 54,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2378627995,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482301554522,
+         "champion": 89,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2378621814,
+         "role": "DUO_SUPPORT",
+         "platformId": "NA1",
+         "lane": "BOTTOM"
+      },
+      {
+         "timestamp": 1482298988138,
+         "champion": 80,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2378566642,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482213695739,
+         "champion": 54,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2377848947,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482209727802,
+         "champion": 254,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2377840390,
+         "role": "NONE",
+         "platformId": "NA1",
+         "lane": "JUNGLE"
+      },
+      {
+         "timestamp": 1482207624811,
+         "champion": 39,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2377804677,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482100425173,
+         "champion": 39,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2376505501,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      },
+      {
+         "timestamp": 1482097408495,
+         "champion": 89,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2376458675,
+         "role": "DUO_SUPPORT",
+         "platformId": "NA1",
+         "lane": "BOTTOM"
+      },
+      {
+         "timestamp": 1482029438199,
+         "champion": 39,
+         "region": "NA",
+         "queue": "RANKED_FLEX_SR",
+         "season": "PRESEASON2017",
+         "matchId": 2375733252,
+         "role": "SOLO",
+         "platformId": "NA1",
+         "lane": "TOP"
+      }
+}
